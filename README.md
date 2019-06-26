@@ -1,0 +1,1 @@
+# wix-renovate-app-wix
