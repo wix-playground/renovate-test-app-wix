@@ -16,7 +16,7 @@ class App extends React.Component<AppProps> {
     TemplateIntro: () => null,
   };
   async componentDidMount() {
-    const { default: TemplateIntro } = await import('yoshi-template-intro');
+    const { default: TemplateIntro } = await import('@wix/yoshi-template-intro');
     this.setState({ TemplateIntro });
   } /* --> */
 
