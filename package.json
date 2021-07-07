@@ -42,7 +42,7 @@
     "@types/react-i18next": "^7.8.2"
   },
   "dependencies": {
-    "renovate-test-lib": "^0.0.1",
+    "renovate-test-lib": "^21.0.0",
     "axios": "^0.19.0",
     "i18next": "^11.6.0",
     "react": "16.8.0",
